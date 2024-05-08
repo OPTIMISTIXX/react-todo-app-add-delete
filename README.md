@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
+It is the second part of the React Todo App with API.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+[DEMO LINK](https://optimistixx.github.io/react-todo-app-add-delete/)
